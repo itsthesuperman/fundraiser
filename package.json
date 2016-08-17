@@ -1,6 +1,6 @@
 {
-  "name": "fundraiser",
-  "version": "1.0",
+  "name": "gateway-fundraiser",
+  "version": "1.0.0",
   "description": "A simple fundraiser screen that reveals an image behind a grid",
   "keywords": [
     "angular2",
